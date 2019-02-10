@@ -1,2 +1,2 @@
 # Rappi
-Prueba Data Analytics Rappi
+Data Analytics Rappi
